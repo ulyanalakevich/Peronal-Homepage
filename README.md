@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ## Demo 
-https://ulyanalakevich.github.io/Peronal-Homepage/
+https://ulyanalakevich.github.io/Personal-Homepage/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
