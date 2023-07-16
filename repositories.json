@@ -1,10 +1,10 @@
 [
     {
         "id":"1", 
-        "name":"Movies Browser", 
+        "name":"Movies Browser (Group Project)", 
         "description":"", 
         "homepage":"https://krzysztof-gronski.github.io/Movies-Browser/", 
-        "html_url":"https://github.com/krzysztof-gronski/Movies-Browser"
+        "html_url":"https://github.com/ulyanalakevich/Movies-Browser"
     },
     {
         "id":"2", 
