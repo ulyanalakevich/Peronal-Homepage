@@ -1,6 +1,4 @@
 
-## Demo 
-https://ulyanalakevich.github.io/Personal-Homepage/
 # Frontend Developer Profile
 
 ## Demo
