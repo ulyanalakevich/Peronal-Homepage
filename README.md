@@ -2,7 +2,7 @@
 # Frontend Developer Profile
 
 ## Demo
-https://ulyanalakevich.github.io/Portfolio-Ulyana-Lakevich/
+https://ulyanalakevich.github.io/Personal-Homepage/
 
 ## Hi, my name is Ulyana Lakevich 
 Welcome to my homepage profile! I am a junior frontend developer with a strong enthusiasm for creating visually appealing and user-friendly web applications. In this readme, you'll find information about my skills, aspirations, and eagerness to gain experience in the field of frontend development. I am particularly interested in working with React and exploring the fascinating field of artificial intelligence.
