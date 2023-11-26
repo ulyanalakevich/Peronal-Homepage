@@ -13,6 +13,7 @@ export const skills = [
   "Immutability",
   "Promises, Async/Await",
   "Redux-Saga",
+  "TypeScript",
   "Markdown",
   "Debugging",
   "React Router",
@@ -22,14 +23,16 @@ export const skills = [
   "Trello",
   "Teamwork",
   "CSS BEM convention",
+  "Material UI",
+  "Conventional commits",
 ];
 
 export const nextSkills = [
     "JS classes",
     "Unit testing",
-    "TypeScript",
     "Cypress",
-    "React Context",
     "WebStorm",
     "AI",
+    "React Native",
+    "Bootstrap",
 ]
