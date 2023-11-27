@@ -31,6 +31,7 @@ export const nextSkills = [
     "JS classes",
     "Unit testing",
     "Cypress",
+    "Vue.js",
     "WebStorm",
     "AI",
     "React Native",
