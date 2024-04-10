@@ -21,6 +21,7 @@ margin-top: -30px;
 
 export const Image = styled.img`
   width: 30vw;
+  max-height: 384px;
   max-width: 384px;
   object-fit: cover;
   border-radius: 50%;

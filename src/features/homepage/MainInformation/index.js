@@ -1,5 +1,5 @@
 import { Name, Image, ThisIs, Wrapper, Info, StyledButtonLink, ButtonIcon } from "./styled"
-import UlyanaLakevich from "./profile.jpeg"
+import UlyanaLakevich from "./photo.JPG"
 import { email } from "../email"
 export const MainInformation = () => {
     return (
